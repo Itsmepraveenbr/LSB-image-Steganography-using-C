@@ -11,7 +11,11 @@ What steganography essentially does is exploit human perception, human senses ar
 Requirements:
 
 •	The application accept an image file say .bmp along with the a text file which contains the message to be steged
+
 •	Analize the size of the message file and the data part of the .bmp file to check whether the messsage could fit in the provided .bmp image
+
 •	Provide a option to steg a magic string which could be usefull to identify whether the image is steged or not
+
 •	The appliaction should provide a option to decrpt the file
+
 •	This has to be an command line apliaction and all the options has to be passed as an command line argument
